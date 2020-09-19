@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">VoiceTrack</string>
+    <string name="welcome_to_voice_track">Welcome To Voice Track</string>
 </resources>
